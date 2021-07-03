@@ -1,4 +1,4 @@
-## Custom Form Validator (Intro Project)
+## Custom Form Validator
 
 Simple client side form validation. Check required, length, email and password match
 
